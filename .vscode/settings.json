@@ -1,0 +1,9 @@
+{
+    "workbench.preferredHighContrastColorTheme": "GitHub Dark",
+    "workbench.preferredLightColorTheme": "GitHub Dark Default",
+    "editor.fontSize": 19,
+    "editor.inlineSuggest.enabled": false,
+    "window.autoDetectColorScheme": false,
+    "workbench.colorTheme": "Default High Contrast",
+    "workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark"
+}
