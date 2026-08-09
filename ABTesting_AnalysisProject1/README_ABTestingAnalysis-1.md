@@ -36,5 +36,8 @@ Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/faviovaz/marketing
 ## ✅ Outcome
 This project helped strengthen skills in comparative analysis, hypothesis testing fundamentals, and presenting data-driven business recommendations.
 
+## Viz
+https://public.tableau.com/views/ABTesting_17862447077650/ABTestingoverView?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## 🔗 Connect
 Project completed as part of the **SoftGrowTech Data Analysis Internship**.
