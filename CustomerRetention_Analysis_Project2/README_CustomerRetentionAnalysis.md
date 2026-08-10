@@ -35,6 +35,8 @@ Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-cu
 
 ## ✅ Outcome
 This project helped strengthen skills in behavioral analysis and identifying actionable patterns that directly impact business retention strategy.
+## VIZ
+https://public.tableau.com/views/churn_17861993164770/ChurnStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 🔗 Connect
 Project completed as part of the **SoftGrowTech Data Analysis Internship**.
